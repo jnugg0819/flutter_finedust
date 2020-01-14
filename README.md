@@ -1,6 +1,6 @@
 # flutter_test_app_finedust
 
-미세몬지앱
+미세먼지앱
 
 ## Getting Started
 
